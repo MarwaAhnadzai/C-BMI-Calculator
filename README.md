@@ -16,7 +16,7 @@ This project is a BMI (Body Mass Index) calculator built using C#. It allows use
    ```sh
    git clone https://github.com/your-username/AhmadzaiMarwa-ClassEx1.git
 ## Screenshots
-![Gmithub](https://github.com/MarwaAhnadzai/C-BMI-Calculator/assets/99272137/098a0e33-9433-45d1-882b-fc5d1fd87044)
+![23](https://github.com/MarwaAhnadzai/C-BMI-Calculator/assets/99272137/e8ac5507-c64d-410a-bf64-4a99b9c2a524)
 
 ## Contact
 For questions or feedback, please contact Marwa Ahnadzai at marwa7271483@gmail.com.
