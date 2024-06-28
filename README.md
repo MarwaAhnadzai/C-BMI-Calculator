@@ -1,4 +1,4 @@
-# AhmadzaiMarwa-ClassEx1: C# BMI Calculator
+# C# BMI Calculator
 
 This project is a BMI (Body Mass Index) calculator built using C#. It allows users to input their weight and height to calculate their BMI and determine their weight category.
 
